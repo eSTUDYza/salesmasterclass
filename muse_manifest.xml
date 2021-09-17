@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="masterclass.co.za" resolutions="1x" timestamp="1631884017374">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="masterclass.co.za" resolutions="1x" timestamp="1631884363393">
   <folder name="assets">
     <file name="artboard-1-copy-2.png" crc="43121356" seo="true" mt="1631881655000"/>
   </folder>
@@ -49,5 +49,5 @@
     <file name="u209-6.png" crc="397139774" ref="index"/>
     <file name="u209-62.png" crc="3788679995" ref="index"/>
   </folder>
-  <file name="index.html" crc="369177660" seo="true" mt="1631884009153" redirect="true"/>
+  <file name="index.html" crc="3986217156" seo="true" mt="1631884357722" redirect="true"/>
 </manifest>
